@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-easy-template.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-easy-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-easy-template_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-easy-template_main.iml" group="ssm-easy-template" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-easy-template_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-easy-template_test.iml" group="ssm-easy-template" />
+    </modules>
+  </component>
+</project>
